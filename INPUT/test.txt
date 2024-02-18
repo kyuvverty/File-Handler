@@ -1,0 +1,11 @@
+Hello {user}!
+
+{test}
+
+Date and time on the device: {full_date}
+
+This is a test message. It is needed to test the program.
+
+-_=+Ё~`*()&^%$#@!"№;:?,.<>|\/"'[]
+qwerty QWERTY
+йцукен ЙЦУКЕН
