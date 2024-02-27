@@ -1,0 +1,11 @@
+Hello Пользователь!
+
+{hello_world}
+
+Date and time on the device: Tue Feb 27 21:47:06 2024
+
+This is a test message. It is needed to test the program.
+
+-_=+Ё~`*()&^%$#@!"№;:?,.<>|\/"'[]
+qwerty QWERTY
+йцукен ЙЦУКЕН
